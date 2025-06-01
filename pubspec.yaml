@@ -38,6 +38,7 @@ dependencies:
   audioplayers: ^5.2.1
 #  audio_visualizer: ^1.1.0
   flutter_glow: ^0.3.2
+  provider: ^6.0.5
 #  flutter_haptic_feedback: ^1.0.0
 
 dev_dependencies:
