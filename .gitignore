@@ -1,0 +1,58 @@
+# Flutter 相关
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+.melior/
+.vscode/
+
+# FVM
+.fvm/flutter_sdk
+.fvm/.packages
+fvm_config.json
+.fvm/versions/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/Generated.xcconfig
+ios/.dart_tool/
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/FlutterMacOS.framework
+macos/Flutter/App.framework
+macos/Flutter/ephemeral/
+macos/Flutter/Generated.xcconfig
+
+# Android
+android/.gradle/
+android/captures/
+android/.idea/
+android/local.properties
+android/app/key.properties
+
+# VS Code
+.vscode/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+
+# 可选：忽略用户隐私/调试文件
+*.log
+*.lock
+*.tmp
+
+# 可选：忽略系统文件
+.DS_Store
+Thumbs.db
