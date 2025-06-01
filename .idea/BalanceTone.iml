@@ -4,8 +4,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/caches" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/android/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/audioplayers_darwin/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/audioplayers_darwin/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/audioplayers_darwin/build" />
@@ -15,6 +18,11 @@
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/path_provider_foundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Runner.xcworkspace/xcshareddata/swiftpm" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Runner.xcworkspace/xcuserdata" />
+      <excludeFolder url="file://$MODULE_DIR$/linux/flutter/ephemeral" />
       <excludeFolder url="file://$MODULE_DIR$/linux/flutter/ephemeral/.plugin_symlinks/audioplayers_linux/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/linux/flutter/ephemeral/.plugin_symlinks/audioplayers_linux/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/linux/flutter/ephemeral/.plugin_symlinks/audioplayers_linux/build" />
@@ -24,6 +32,11 @@
       <excludeFolder url="file://$MODULE_DIR$/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/macos/Flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/macos/Pods" />
+      <excludeFolder url="file://$MODULE_DIR$/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/swiftpm" />
+      <excludeFolder url="file://$MODULE_DIR$/macos/Runner.xcworkspace/xcshareddata/swiftpm" />
+      <excludeFolder url="file://$MODULE_DIR$/windows/flutter/ephemeral" />
       <excludeFolder url="file://$MODULE_DIR$/windows/flutter/ephemeral/.plugin_symlinks/audioplayers_windows/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/windows/flutter/ephemeral/.plugin_symlinks/audioplayers_windows/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/windows/flutter/ephemeral/.plugin_symlinks/audioplayers_windows/build" />
